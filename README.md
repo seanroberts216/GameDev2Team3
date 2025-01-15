@@ -6,3 +6,8 @@
 * Riley Poldino - Sound
 * Sean Roberts - Coder
 * Winston - Graphics
+
+# Start Screen
+# Gameplay
+# End Screen
+# Gantt Chart
