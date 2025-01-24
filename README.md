@@ -5,9 +5,10 @@
 * Hong Wen Xu - Coder
 * Riley Poldino - Sound
 * Sean Roberts - Coder
-* Winston - Script writer
+* Winston - Scriptwriter
 
 # Start Screen
 # Gameplay
 # End Screen
+# Flow Chart
 # Gantt Chart
