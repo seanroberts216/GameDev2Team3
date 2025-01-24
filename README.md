@@ -5,7 +5,7 @@
 * Hong Wen Xu - Coder
 * Riley Poldino - Sound
 * Sean Roberts - Coder
-* Winston - Graphics
+* Winston - Script writer
 
 # Start Screen
 # Gameplay
