@@ -2,7 +2,7 @@
 
 # Team Members and Roles
 * George - Graphics/Animation
-* Hong Xu - Coder
+* Hongwen - Coder
 * Riley - Sound
 * Sean - Coder
 * Winston - Scriptwriter
