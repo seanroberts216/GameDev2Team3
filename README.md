@@ -1,10 +1,10 @@
 # GameDev2Team3
 
 # Team Members and Roles
-* George Huang - Graphics/Animation
-* Hong Wen Xu - Coder
-* Riley Poldino - Sound
-* Sean Roberts - Coder
+* George - Graphics/Animation
+* Hong Xu - Coder
+* Riley - Sound
+* Sean - Coder
 * Winston - Scriptwriter
 
 # Start Screen
