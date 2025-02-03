@@ -15,6 +15,7 @@ You play a Flappy Bird-based game with more of a twist like different obstacles,
 # Flow Chart
 ![flowchart](https://github.com/user-attachments/assets/786a6b0f-55d5-4e69-8f90-b929a96d257b)
 # Gantt Chart
+https://docs.google.com/spreadsheets/d/1eoEqygb_3_6l2gRC-0lfOxzfxlTwxfl0ugmfjio2QME/edit?usp=sharing
 # Sound Files
 [background birds audio](https://github.com/seanroberts216/GameDev2Team3/blob/main/assets/pigeons-flying-6351.mp3)
 [explosion audio](https://github.com/seanroberts216/GameDev2Team3/blob/main/assets/explosion-91872.mp3)
