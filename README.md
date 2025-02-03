@@ -6,7 +6,9 @@
 * Riley - Sound
 * Sean - Coder
 * Winston - Scriptwriter
-
+  
+# Game Concept
+You play a Flappy Bird-based game with more of a twist like different obstacles, and different scenery, and there will be mini-bosses and bosses as you go along the levels.
 # Start Screen
 # Gameplay
 # End Screen
