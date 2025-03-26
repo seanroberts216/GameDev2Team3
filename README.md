@@ -11,6 +11,7 @@
 You play a Flappy Bird-based game with more of a twist like different obstacles, and different scenery, and there will be mini-bosses and bosses as you go along the levels.
 # Start Screen
 # Gameplay
+[Gameplayscreen](https://github.com/seanroberts216/GameDev2Team3/blob/main/Images/Game%20Images/gameplay%20screen.png)
 # End Screen
 # Flow Chart
 ![flowchart](https://github.com/user-attachments/assets/786a6b0f-55d5-4e69-8f90-b929a96d257b)
